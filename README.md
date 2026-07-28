@@ -20,7 +20,7 @@ The project focuses on designing a clean, scalable, and normalized relational da
 
 # 🚀 Functional Requirements
 
-## 1. Authors
+## 1. *Authors*
 
 Store information about every author.
 
