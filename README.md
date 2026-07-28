@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Design and implement a production-ready relational database for a Library Management System using SQL and SQLite.
+Design and implement a production-ready relational database for a Library Management System using SQL and SQLite
 
 The project demonstrates database modeling, normalization, relationships, indexing, constraints, triggers, views, and query optimization following industry best practices.
 
