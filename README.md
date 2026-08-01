@@ -10,7 +10,7 @@ The project demonstrates database modeling, normalization, relationships,indexin
 
 # 📖 Problem Statement
 
-A modern library requires a database system capable of efficiently managing books, authors, publishers, borrowers, physical book copies, borrowing transactions, and library staff.
+A modern library requires  a database system capable of efficiently managing books, authors, publishers, borrowers, physical book copies, borrowing transactions, and library staff.
 
 The system should maintain data integrity, prevent duplicate records, and support efficient querying for day-to-day library operations.
 
