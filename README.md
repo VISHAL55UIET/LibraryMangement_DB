@@ -98,9 +98,9 @@ Implement a Many-to-Many relationship using a junction table.
 
 ## 6. Book Genres
 
-A book may belong to multiple genres.
+A book may belong to multiple genres..
 
-Implement a Many-to-Many relationship.
+Implement a Many-to-Many relationship..
 
 ---
 
